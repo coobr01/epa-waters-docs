@@ -1,3 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "http://coobr.github.io/WATERS-Docs"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "WATERS Documentation"
+theme = "hugo-theme-bleak"
+publishDir = "docs"
