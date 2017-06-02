@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://coobr01.github.io/WATERS-Docs/post/foo/</loc>
+    <lastmod>2017-06-02T12:51:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://coobr01.github.io/WATERS-Docs/post/nldi-intro/</loc>
+    <lastmod>2017-06-02T12:09:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://coobr01.github.io/WATERS-Docs/post/welcome/</loc>
+    <lastmod>2017-06-02T12:07:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://coobr01.github.io/WATERS-Docs/tags/agile/</loc>
+    <lastmod>2017-06-02T12:09:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://coobr01.github.io/WATERS-Docs/categories/applications/</loc>
+    <lastmod>2017-06-02T12:09:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://coobr01.github.io/WATERS-Docs/categories/</loc>
+    <lastmod>2017-06-02T12:09:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://coobr01.github.io/WATERS-Docs/categories/data-science/</loc>
+    <lastmod>2017-06-02T12:09:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://coobr01.github.io/WATERS-Docs/tags/dataretrieval/</loc>
+    <lastmod>2017-06-02T12:09:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://coobr01.github.io/WATERS-Docs/tags/egret/</loc>
+    <lastmod>2017-06-02T12:09:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://coobr01.github.io/WATERS-Docs/tags/geo-data-portal/</loc>
+    <lastmod>2017-06-02T12:09:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://coobr01.github.io/WATERS-Docs/tags/geoknife/</loc>
+    <lastmod>2017-06-02T12:09:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://coobr01.github.io/WATERS-Docs/tags/leaflet/</loc>
+    <lastmod>2017-06-02T12:09:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://coobr01.github.io/WATERS-Docs/post/</loc>
+    <lastmod>2017-06-02T12:51:31-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://coobr01.github.io/WATERS-Docs/tags/r/</loc>
+    <lastmod>2017-06-02T12:09:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://coobr01.github.io/WATERS-Docs/categories/software-development/</loc>
+    <lastmod>2017-06-02T12:09:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://coobr01.github.io/WATERS-Docs/tags/</loc>
+    <lastmod>2017-06-02T12:09:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://coobr01.github.io/WATERS-Docs/</loc>
+    <lastmod>2017-06-02T12:51:31-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

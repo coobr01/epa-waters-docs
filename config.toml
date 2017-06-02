@@ -1,4 +1,4 @@
-baseURL = "http://coobr.github.io/WATERS-Docs"
+baseURL = "https://coobr01.github.io/WATERS-Docs"
 languageCode = "en-us"
 title = "WATERS Documentation"
 theme = "hugo-theme-bleak"

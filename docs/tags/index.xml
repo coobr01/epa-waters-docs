@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on WATERS Documentation</title>
+    <link>https://coobr01.github.io/WATERS-Docs/tags/</link>
+    <description>Recent content in Tags on WATERS Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Jun 2017 12:09:50 -0400</lastBuildDate>
+    
+	<atom:link href="https://coobr01.github.io/WATERS-Docs/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Agile</title>
+      <link>https://coobr01.github.io/WATERS-Docs/tags/agile/</link>
+      <pubDate>Fri, 02 Jun 2017 12:09:50 -0400</pubDate>
+      
+      <guid>https://coobr01.github.io/WATERS-Docs/tags/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dataretrieval</title>
+      <link>https://coobr01.github.io/WATERS-Docs/tags/dataretrieval/</link>
+      <pubDate>Fri, 02 Jun 2017 12:09:50 -0400</pubDate>
+      
+      <guid>https://coobr01.github.io/WATERS-Docs/tags/dataretrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Egret</title>
+      <link>https://coobr01.github.io/WATERS-Docs/tags/egret/</link>
+      <pubDate>Fri, 02 Jun 2017 12:09:50 -0400</pubDate>
+      
+      <guid>https://coobr01.github.io/WATERS-Docs/tags/egret/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geo Data Portal</title>
+      <link>https://coobr01.github.io/WATERS-Docs/tags/geo-data-portal/</link>
+      <pubDate>Fri, 02 Jun 2017 12:09:50 -0400</pubDate>
+      
+      <guid>https://coobr01.github.io/WATERS-Docs/tags/geo-data-portal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geoknife</title>
+      <link>https://coobr01.github.io/WATERS-Docs/tags/geoknife/</link>
+      <pubDate>Fri, 02 Jun 2017 12:09:50 -0400</pubDate>
+      
+      <guid>https://coobr01.github.io/WATERS-Docs/tags/geoknife/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leaflet</title>
+      <link>https://coobr01.github.io/WATERS-Docs/tags/leaflet/</link>
+      <pubDate>Fri, 02 Jun 2017 12:09:50 -0400</pubDate>
+      
+      <guid>https://coobr01.github.io/WATERS-Docs/tags/leaflet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://coobr01.github.io/WATERS-Docs/tags/r/</link>
+      <pubDate>Fri, 02 Jun 2017 12:09:50 -0400</pubDate>
+      
+      <guid>https://coobr01.github.io/WATERS-Docs/tags/r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

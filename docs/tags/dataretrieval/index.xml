@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dataretrieval on WATERS Documentation</title>
+    <link>https://coobr01.github.io/WATERS-Docs/tags/dataretrieval/</link>
+    <description>Recent content in Dataretrieval on WATERS Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Jun 2017 12:09:50 -0400</lastBuildDate>
+    
+	<atom:link href="https://coobr01.github.io/WATERS-Docs/tags/dataretrieval/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Hydro Network-Linked Data Index</title>
+      <link>https://coobr01.github.io/WATERS-Docs/post/nldi-intro/</link>
+      <pubDate>Fri, 02 Jun 2017 12:09:50 -0400</pubDate>
+      
+      <guid>https://coobr01.github.io/WATERS-Docs/post/nldi-intro/</guid>
+      <description>Introduction The Hydro Network-Linked Data Index (NLDI) is a system that can index data to NHDPlus V2 catchments and offers a search service to discover indexed information. Data linked to the NLDI includes active NWIS stream gages, water quality portal sites, and outlets of HUC12 watersheds. The NLDI is a core product of the Open Water Data Initiative and is being developed as an open source project. coordinated through the Advisory Committee on Water Information (ACWI) Subcommittee on Spatial Water Data.</description>
+    </item>
+    
+  </channel>
+</rss>
