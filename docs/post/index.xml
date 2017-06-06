@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on WATERS Documentation</title>
-    <link>https://coobr01.github.io/WATERS-Docs/post/</link>
+    <link>https://bryanneva-erg.github.io/epa-waters-docs/post/</link>
     <description>Recent content in Posts on WATERS Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Jun 2017 12:51:31 -0400</lastBuildDate>
     
-	<atom:link href="https://coobr01.github.io/WATERS-Docs/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bryanneva-erg.github.io/epa-waters-docs/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>foo</title>
-      <link>https://coobr01.github.io/WATERS-Docs/post/foo/</link>
+      <link>https://bryanneva-erg.github.io/epa-waters-docs/post/foo/</link>
       <pubDate>Fri, 02 Jun 2017 12:51:31 -0400</pubDate>
       
-      <guid>https://coobr01.github.io/WATERS-Docs/post/foo/</guid>
+      <guid>https://bryanneva-erg.github.io/epa-waters-docs/post/foo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Hydro Network-Linked Data Index</title>
-      <link>https://coobr01.github.io/WATERS-Docs/post/nldi-intro/</link>
+      <link>https://bryanneva-erg.github.io/epa-waters-docs/post/nldi-intro/</link>
       <pubDate>Fri, 02 Jun 2017 12:09:50 -0400</pubDate>
       
-      <guid>https://coobr01.github.io/WATERS-Docs/post/nldi-intro/</guid>
+      <guid>https://bryanneva-erg.github.io/epa-waters-docs/post/nldi-intro/</guid>
       <description>Introduction The Hydro Network-Linked Data Index (NLDI) is a system that can index data to NHDPlus V2 catchments and offers a search service to discover indexed information. Data linked to the NLDI includes active NWIS stream gages, water quality portal sites, and outlets of HUC12 watersheds. The NLDI is a core product of the Open Water Data Initiative and is being developed as an open source project. coordinated through the Advisory Committee on Water Information (ACWI) Subcommittee on Spatial Water Data.</description>
     </item>
     
     <item>
       <title>welcome</title>
-      <link>https://coobr01.github.io/WATERS-Docs/post/welcome/</link>
+      <link>https://bryanneva-erg.github.io/epa-waters-docs/post/welcome/</link>
       <pubDate>Fri, 02 Jun 2017 12:07:05 -0400</pubDate>
       
-      <guid>https://coobr01.github.io/WATERS-Docs/post/welcome/</guid>
+      <guid>https://bryanneva-erg.github.io/epa-waters-docs/post/welcome/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     

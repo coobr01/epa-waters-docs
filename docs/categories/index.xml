@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on WATERS Documentation</title>
-    <link>https://coobr01.github.io/WATERS-Docs/categories/</link>
+    <link>https://bryanneva-erg.github.io/epa-waters-docs/categories/</link>
     <description>Recent content in Categories on WATERS Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Jun 2017 12:09:50 -0400</lastBuildDate>
     
-	<atom:link href="https://coobr01.github.io/WATERS-Docs/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bryanneva-erg.github.io/epa-waters-docs/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Applications</title>
-      <link>https://coobr01.github.io/WATERS-Docs/categories/applications/</link>
+      <link>https://bryanneva-erg.github.io/epa-waters-docs/categories/applications/</link>
       <pubDate>Fri, 02 Jun 2017 12:09:50 -0400</pubDate>
       
-      <guid>https://coobr01.github.io/WATERS-Docs/categories/applications/</guid>
+      <guid>https://bryanneva-erg.github.io/epa-waters-docs/categories/applications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Science</title>
-      <link>https://coobr01.github.io/WATERS-Docs/categories/data-science/</link>
+      <link>https://bryanneva-erg.github.io/epa-waters-docs/categories/data-science/</link>
       <pubDate>Fri, 02 Jun 2017 12:09:50 -0400</pubDate>
       
-      <guid>https://coobr01.github.io/WATERS-Docs/categories/data-science/</guid>
+      <guid>https://bryanneva-erg.github.io/epa-waters-docs/categories/data-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software Development</title>
-      <link>https://coobr01.github.io/WATERS-Docs/categories/software-development/</link>
+      <link>https://bryanneva-erg.github.io/epa-waters-docs/categories/software-development/</link>
       <pubDate>Fri, 02 Jun 2017 12:09:50 -0400</pubDate>
       
-      <guid>https://coobr01.github.io/WATERS-Docs/categories/software-development/</guid>
+      <guid>https://bryanneva-erg.github.io/epa-waters-docs/categories/software-development/</guid>
       <description></description>
     </item>
     
