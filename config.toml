@@ -1,4 +1,4 @@
-baseURL = "https://coobr01.github.io/WATERS-Docs"
+baseURL = "https://bryanneva-erg.github.io/epa-waters-docs"
 languageCode = "en-us"
 title = "WATERS Documentation"
 theme = "hugo_theme_robust"
