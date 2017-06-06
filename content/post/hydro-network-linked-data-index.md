@@ -4,7 +4,7 @@ Description = ""
 Tags = ["R","dataRetrieval","EGRET","geoknife","leaflet","Agile","Geo Data Portal"]
 date = "2017-06-02T12:09:50-04:00"
 menu = "main"
-thumbnail = "/img/first_streamgage.jpeg"
+thumbnail = "/images/first_streamgage.jpeg"
 title = "The Hydro Network-Linked Data Index"
 author = "David Blodgett"
 slug="nldi-intro"
@@ -70,6 +70,9 @@ We can use the getRegisteredFeature request to see this feature. Enter nwissite 
   ]
 }
 ```
+
+
+{{< map "https://owi.usgs.gov/blog/static/nldi-intro/map_1/index.html" "500px" >}}
 
 ## Navigation
 
