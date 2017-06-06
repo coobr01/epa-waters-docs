@@ -38,7 +38,7 @@ Available network linked feature sources ({featureSource}s) can be found from th
 
 For now, the particular {featureID} to be accessed from a given {featureSource} needs to be found outside the NLDI, so the getFeatures request doesn’t return anything. So let’s use a well known NWIS Streamgage on the Rio Grande at Embudo NM as our starting point.
 
-![Sample Image](sample1_l.jpg)
+![](/epa-waters-docs/images/first_streamgage.jpeg)
 
 ## Indexed Features
 

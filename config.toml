@@ -1,5 +1,5 @@
-baseURL = "https://bryanneva-erg.github.io/epa-waters-docs"
+baseurl = "https://bryanneva-erg.github.io/epa-waters-docs/"
 languageCode = "en-us"
 title = "WATERS Documentation"
-theme = "hugo_theme_robust"
-publishDir = "docs"
+theme = "amp"
+publishdir = "docs"
